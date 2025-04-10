@@ -1,0 +1,16 @@
+C:\Users\labsfiap\Desktop\CP1_Julio_Carlos-Csharp-WinForms\CP1_Julio_Carlos-Csharp-WinForms\bin\Debug\net8.0-windows\CP1_Julio_Carlos-Csharp-WinForms.exe
+C:\Users\labsfiap\Desktop\CP1_Julio_Carlos-Csharp-WinForms\CP1_Julio_Carlos-Csharp-WinForms\bin\Debug\net8.0-windows\CP1_Julio_Carlos-Csharp-WinForms.deps.json
+C:\Users\labsfiap\Desktop\CP1_Julio_Carlos-Csharp-WinForms\CP1_Julio_Carlos-Csharp-WinForms\bin\Debug\net8.0-windows\CP1_Julio_Carlos-Csharp-WinForms.runtimeconfig.json
+C:\Users\labsfiap\Desktop\CP1_Julio_Carlos-Csharp-WinForms\CP1_Julio_Carlos-Csharp-WinForms\bin\Debug\net8.0-windows\CP1_Julio_Carlos-Csharp-WinForms.dll
+C:\Users\labsfiap\Desktop\CP1_Julio_Carlos-Csharp-WinForms\CP1_Julio_Carlos-Csharp-WinForms\bin\Debug\net8.0-windows\CP1_Julio_Carlos-Csharp-WinForms.pdb
+C:\Users\labsfiap\Desktop\CP1_Julio_Carlos-Csharp-WinForms\CP1_Julio_Carlos-Csharp-WinForms\obj\Debug\net8.0-windows\CP1_Julio_Carlos_Csharp_WinForms.Form1.resources
+C:\Users\labsfiap\Desktop\CP1_Julio_Carlos-Csharp-WinForms\CP1_Julio_Carlos-Csharp-WinForms\obj\Debug\net8.0-windows\CP1_Julio_Carlos-Csharp-WinForms.csproj.GenerateResource.cache
+C:\Users\labsfiap\Desktop\CP1_Julio_Carlos-Csharp-WinForms\CP1_Julio_Carlos-Csharp-WinForms\obj\Debug\net8.0-windows\CP1_Julio_Carlos-Csharp-WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\Desktop\CP1_Julio_Carlos-Csharp-WinForms\CP1_Julio_Carlos-Csharp-WinForms\obj\Debug\net8.0-windows\CP1_Julio_Carlos-Csharp-WinForms.AssemblyInfoInputs.cache
+C:\Users\labsfiap\Desktop\CP1_Julio_Carlos-Csharp-WinForms\CP1_Julio_Carlos-Csharp-WinForms\obj\Debug\net8.0-windows\CP1_Julio_Carlos-Csharp-WinForms.AssemblyInfo.cs
+C:\Users\labsfiap\Desktop\CP1_Julio_Carlos-Csharp-WinForms\CP1_Julio_Carlos-Csharp-WinForms\obj\Debug\net8.0-windows\CP1_Julio_Carlos-Csharp-WinForms.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\Desktop\CP1_Julio_Carlos-Csharp-WinForms\CP1_Julio_Carlos-Csharp-WinForms\obj\Debug\net8.0-windows\CP1_Julio_Carlos-Csharp-WinForms.dll
+C:\Users\labsfiap\Desktop\CP1_Julio_Carlos-Csharp-WinForms\CP1_Julio_Carlos-Csharp-WinForms\obj\Debug\net8.0-windows\refint\CP1_Julio_Carlos-Csharp-WinForms.dll
+C:\Users\labsfiap\Desktop\CP1_Julio_Carlos-Csharp-WinForms\CP1_Julio_Carlos-Csharp-WinForms\obj\Debug\net8.0-windows\CP1_Julio_Carlos-Csharp-WinForms.pdb
+C:\Users\labsfiap\Desktop\CP1_Julio_Carlos-Csharp-WinForms\CP1_Julio_Carlos-Csharp-WinForms\obj\Debug\net8.0-windows\CP1_Julio_Carlos-Csharp-WinForms.genruntimeconfig.cache
+C:\Users\labsfiap\Desktop\CP1_Julio_Carlos-Csharp-WinForms\CP1_Julio_Carlos-Csharp-WinForms\obj\Debug\net8.0-windows\ref\CP1_Julio_Carlos-Csharp-WinForms.dll
